@@ -1,0 +1,19 @@
+{
+  "taskManagement": {
+    "addTask": true,
+    "editTask": true,
+    "deleteTask": true,
+    "changeTaskStatus": true,
+    "addComment": true
+  },
+  "fileUploadDownload": {
+    "uploadFile": true,
+    "downloadFile": true
+  },
+  "downSyndromeFeatures": {
+    "termsAndReferences": true,
+    "speechAnalysis": true,
+    "filteringAndSearch": true,
+    "reportGeneration": true
+  }
+}
