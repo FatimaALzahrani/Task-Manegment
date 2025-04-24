@@ -1,18 +1,19 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/down-syndrome-research-manager/'
-    : '/',
-  outputDir: 'dist',
-  assetsDir: 'assets',
+  publicPath:
+    process.env.NODE_ENV === "production"
+      ? "/down-syndrome-research-manager/"
+      : "/",
+  outputDir: "dist",
+  assetsDir: "assets",
   productionSourceMap: false,
   configureWebpack: {
     performance: {
-      hints: false
+      hints: false,
     },
     optimization: {
       splitChunks: {
-        chunks: 'all'
-      }
-    }
-  }
-}
+        chunks: "all",
+      },
+    },
+  },
+};
