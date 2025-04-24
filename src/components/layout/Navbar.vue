@@ -8,7 +8,7 @@
         <i class="fas fa-bars"></i>
       </button>
       <h1 class="text-xl font-bold text-primary-700 mr-4">
-        إدارة مهام ورقة الملتقى - متلازمة داون
+        إدارة مهام البحث العلمي - متلازمة داون
       </h1>
     </div>
   </nav>
