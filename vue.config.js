@@ -1,6 +1,5 @@
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production" ? "/task-manegment-6krw/" : "/",
+  publicPath: "/",
   outputDir: "dist",
   assetsDir: "assets",
   productionSourceMap: false,
