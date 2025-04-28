@@ -25,7 +25,9 @@
     "vue-chartjs": "^4.1.0",
     "vue-router": "^4.0.3",
     "vuedraggable": "^4.1.0",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+        "@vue/cli-service": "^5.0.0"
+
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
